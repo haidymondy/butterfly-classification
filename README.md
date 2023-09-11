@@ -1,2 +1,2 @@
 # butterfly-classification
-images classification
+images classification computer vision
